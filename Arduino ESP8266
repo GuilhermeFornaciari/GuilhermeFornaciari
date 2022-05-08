@@ -134,7 +134,7 @@ void loop() {
   }
   
   // Create json object string to send to Google Sheets
-  payload = payload_base + "\"" + Irms + "," + potencia + "\"}";
+  payload = payload_base + "\"" + Media + "," + moda + "\"}";
   
   // Publish data to Google Sheets
   Serial.println("Publishing data...");
