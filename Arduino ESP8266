@@ -28,10 +28,14 @@ String url = String("/macros/s/") + GScriptId + "/exec";
 HTTPSRedirect* client = nullptr;
 // Declare variables that will be used by the SCT-013
 EnergyMonitor SCT013;
+#define Tamanho 10  // periodo de envio dos dados em segundos
 int pinSCT = A0;   //Pino analógico conectado ao SCT-013
 int tensao = 127;
 int potencia;
-
+int j;
+int cont[10] = {};
+float conta, moda,Media;
+double Amplist[Tamanho] = {};
 void setup() {
   SCT013.current(pinSCT, 6.0606);
   Serial.begin(115200);        
@@ -84,21 +88,33 @@ void setup() {
 
 
 void loop() {
+   float SomaM = 0;
+   // create the data
+   for (int i=0; i<Tamanho; i++){ 
+    double Amp = SCT013.calcIrms(1480);   // Calcula o valor da Corrente
+    Amplist[i] = Amp;
+    delay(1000);
+    SomaM = SomaM + Amp;
+   }
+   Media = SomaM / Tamanho;
 
-  // create the data to publish
-    double Irms = SCT013.calcIrms(1480);   // Calcula o valor da Corrente
-   
-    potencia = Irms * tensao;          // Calcula o valor da Potencia Instantanea    
-    Serial.print("Corrente = ");
-    Serial.print(Irms);
-    Serial.println(" A");
-   
-    Serial.print("Potencia = ");
-    Serial.print(potencia);
-    Serial.println(" W");
-    delay(5000);
+  for(int i=0;i<Tamanho;i++){
+        for(j=i+1;j<Tamanho;j++){
+          
+      if(Amplist[i]==Amplist[j]){
+        cont[i]++;
+          if(cont[i]>conta){
+            conta=cont[i];
+            moda=Amplist[i];
+          }
+      }
 
-
+        }
+        cont[i]=0;
+    }
+    if(conta == 0){
+      moda = Media;
+      }
 
   static bool flag = false;
   if (!flag){
