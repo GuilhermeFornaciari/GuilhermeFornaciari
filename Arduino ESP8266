@@ -28,12 +28,12 @@ String url = String("/macros/s/") + GScriptId + "/exec";
 HTTPSRedirect* client = nullptr;
 // Declare variables that will be used by the SCT-013
 EnergyMonitor SCT013;
-#define Tamanho 10  // periodo de envio dos dados em segundos
+#define Tamanho 60  // periodo de envio dos dados em segundos
 int pinSCT = A0;   //Pino analógico conectado ao SCT-013
 int tensao = 127;
 int potencia;
 int j;
-int cont[10] = {};
+int cont[Tamanho] = {};
 float conta, moda,Media;
 double Amplist[Tamanho] = {};
 void setup() {
