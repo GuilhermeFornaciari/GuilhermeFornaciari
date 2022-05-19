@@ -1,11 +1,4 @@
-// Example Google Scrips code to upload data to Google Sheets from Arduino/ESP8266
-// Follow setup instructions found here:
-// https://github.com/StorageB/Google-Sheets-Logging
-// reddit: u/StorageB107
-// email: StorageUnitB@gmail.com
-
-
-// Enter Spreadsheet ID here
+// ID da planilha aqui
 var SS = SpreadsheetApp.openById('1yGlecNO4K6qJOA1iW0gpqWaGxp4s3CgB5TIviQJKNBY').getActiveSheet();
 var str = "";
 
@@ -19,7 +12,7 @@ function doPost(e) {
     parsedData = JSON.parse(e.postData.contents);
   } 
   catch(f){
-    return ContentService.createTextOutput("Error in parsing request body: " + f.message);
+    return ContentService.createTextOutput("Erro em separar os dados da request: " + f.message);
   }
    
   if (parsedData !== undefined){
@@ -29,44 +22,37 @@ function doPost(e) {
     }
     //tentativa conserto
     var sheet = SS
-    // var sheet = SS.getSheetByName("Sheet1"); // sheet name to publish data to is specified in Arduino code
-    var dataArr = parsedData.values.split(","); // creates an array of the values to publish 
-         
-    
-    
-    var time_now = Utilities.formatDate(new Date(), 'UTC'-4, "hh:mm:ss a");
-    
-    
-    var date_now = Utilities.formatDate(new Date(), 'GMT-4', "yyyy/MM/dd"); // gets the current date
-    var time_now = Utilities.formatDate(new Date(), 'GMT-4', "hh:mm:ss a"); // gets the current time
+    var dataArr = parsedData.values.split(","); // cria um vetor dos valores a serem publicados    
+        
+    var date_now = Utilities.formatDate(new Date(), 'GMT-4', "dd/MM/yyyy"); // pega a data atual
+    var time_now = Utilities.formatDate(new Date(), 'GMT-4', "hh:mm:ss a"); // pega a hora atual
     
     
     
     
     
-    var value0 = dataArr [0]; // value0 from Arduino code
-    var value1 = dataArr [1]; // value1 from Arduino code
-    var value2 = dataArr [2]; // value2 from Arduino code
+    var value0 = dataArr [0]; // value0 do código do arduino
+    var value1 = dataArr [1]; // value1 do código do arduino
+    var value2 = dataArr [2]; // value2 do código do arduino
     
     
-    // read and execute command from the "payload_base" string specified in Arduino code
-    
+    // le e executa o comando da "payload_base" na  string especificada no codigo do arduino, no caso, "insert"    
          
     var publish_array = new Array(); // create a new array
        
-    publish_array [0] = date_now; // add current date to position 0 in publish_array
-    publish_array [1] = time_now; // add current time to position 1 in publish_array
-    publish_array [2] = value0;   // add value0 from Arduino code to position 2 in publish_array
-    publish_array [3] = value1;   // add value1 from Arduino code to position 3 in publish_array
-    publish_array [4] = value2;   // add value2 from Arduino code to position 4 in publish_array
+    publish_array [0] = date_now; // adiciona a data para a posição 0 em publish_array
+    publish_array [1] = time_now; // adiciona a hora para a posição 1 em publish_array
+    publish_array [2] = value0;   // adiciona o value0 do código do arduino para a posição 2 em publish_array
+    publish_array [3] = value1;   // adiciona o value0 do código do arduino para a posição 2 em publish_array
+    publish_array [4] = value2;   // adiciona o value0 do código do arduino para a posição 2 em publish_array
       
     
-    //postar itens na sheet1
+    //Postar itens na sheet1
     var newRow = sheet.getLastRow() + 1;
     var newRange = sheet.getRange(newRow, 1, 1, publish_array.length);
     newRange.setValues([publish_array]);
       
-    str = "Success"; // string to return back to Arduino serial console
+    str = "Successo"; // string que volta para o serial do arduino
     SpreadsheetApp.flush();
       
  
@@ -76,6 +62,6 @@ function doPost(e) {
   } // endif (parsedData !== undefined)
   
   else {
-    return ContentService.createTextOutput("Error! Request body empty or in incorrect format.");
+    return ContentService.createTextOutput("Erro! dados vazios ou em formato incorreto.");
   }
 }
