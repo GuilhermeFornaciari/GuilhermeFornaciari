@@ -7,8 +7,12 @@
 ## Portuguese
 ### Introdução
 Heyy, meu nome é Guilherme de Souza Fornaciari, e eu sou um programador fullstack, com especialização em backend, sei utilizar diversas tecnologias como:
-1.Python
-  Django
+
+##Python ![![python](https://github.com/GuilhermeFornaciari/GuilhermeFornaciari/assets/105019755/95f2d473-7b12-4ca2-99ac-a566076eba59)
+
+  Django (Framework para backend) ![django-logo](https://github.com/GuilhermeFornaciari/GuilhermeFornaciari/assets/105019755/feeccaab-b934-4014-a50e-d8abdfc10fc5)
+  Pandas (Biblioteca para manipular documentos) ![Pandas_logo svg](https://github.com/GuilhermeFornaciari/GuilhermeFornaciari/assets/105019755/b54c5c81-2315-42c8-a12a-205bc6faecdd)
+  Selenium (Framework para fazer automatizações de interações com paginas web) ![Pandas_logo svg](https://github.com/GuilhermeFornaciari/GuilhermeFornaciari/assets/105019755/b43e479c-3342-42ca-a0a7-2d809343e36b)
 
  bono ano de 2022, eu defini um objetivo de vida: me tornar um programador bom o suficiente 
 
