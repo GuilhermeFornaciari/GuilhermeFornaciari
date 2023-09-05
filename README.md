@@ -9,8 +9,8 @@
 Heyy, meu nome é Guilherme de Souza Fornaciari, e eu sou um programador fullstack, com especialização em backend
 
 ## Web development
-  1.**Frontend**
-      - Nada ate agora, porém eu pretendo aprender em breve
+  1.Frontend
+    - Nada ate agora, porém eu pretendo aprender em breve
 
   1.**Backend**
       * Express
