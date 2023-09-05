@@ -8,16 +8,16 @@
 ### Introdução
 Heyy, meu nome é Guilherme de Souza Fornaciari, e eu sou um programador fullstack, com especialização em backend, sei utilizar diversas tecnologias como:
 
-## Python <img height="80" alt="Python" src="https://github.com/GuilhermeFornaciari/GuilhermeFornaciari/assets/105019755/95f2d473-7b12-4ca2-99ac-a566076eba59">
+### Python <img height="80" alt="Python" src="https://github.com/GuilhermeFornaciari/GuilhermeFornaciari/assets/105019755/95f2d473-7b12-4ca2-99ac-a566076eba59">
 
 
-  ### Django <img height="40" alt="Django" src="Logos\django-logo.png">
+ Django <img height="40" alt="Django" src="Logos\django-logo.png">
 
 
-  ### Pandas <img height="40" alt="Pandas" src="https://github.com/GuilhermeFornaciari/GuilhermeFornaciari/assets/105019755/b54c5c81-2315-42c8-a12a-205bc6faecdd">
+ Pandas <img height="40" alt="Pandas" src="https://github.com/GuilhermeFornaciari/GuilhermeFornaciari/assets/105019755/b54c5c81-2315-42c8-a12a-205bc6faecdd">
 
 
-  ### Selenium <img height="40" alt="Selenium" src="https://github.com/GuilhermeFornaciari/GuilhermeFornaciari/assets/105019755/33fffee3-1d42-45ab-8faf-1a69f27730e4">
+ Selenium <img height="40" alt="Selenium" src="https://github.com/GuilhermeFornaciari/GuilhermeFornaciari/assets/105019755/33fffee3-1d42-45ab-8faf-1a69f27730e4">
 
 ###Python 
   Django (Framework para backend) 
