@@ -10,14 +10,13 @@ Heyy, meu nome é Guilherme de Souza Fornaciari, e eu sou um programador fullsta
 
 ## Web development
   **1.Frontend**
-
     *Nada ate agora, porém eu pretendo aprender em breve
 
   **1.Backend**
-      *Express
-      *AspNet
-      *Django
-      *Selenium
+    *Express
+    *AspNet
+    *Django
+    *Selenium
 
 
 
