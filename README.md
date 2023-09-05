@@ -37,7 +37,6 @@ O IrrigAção é um sistema conhecido por automatizar a irrigação de uma horta
 </details>
 
 <details>
-
 <summary>OBR</summary><br>
 A OBR (Olimpíada Brasileira de Robótica) é uma competição na qual testamos nosso conhecimento em robótica.
 
@@ -48,10 +47,12 @@ Na modalidade prática, desenvolvemos tanto o hardware quanto o software de um r
 A modalidade teórica assemelha-se a uma olimpíada de conhecimento tradicional, já que envolve uma prova na qual competimos contra os demais participantes. Em 2021, obtive uma medalha de prata com a melhor nota do estado."
 </details>
 
+<details>
 <summary>Modelagem/Impressão 3D, e manutenção da impressora</summary><br>
 Durante minha estadia no IFRO, despertei interesse por uma impressora GTMax 3D A3V2. Após dialogar com diversos setores do instituto, consegui acesso a ela, com a supervisão da minha professora de programação Adriana Aparecida Rigolon, que também me ensinou a dar a manutenção adequada. Isso me permitiu aprender o básico de modelagem e impressão 3D. Mais tarde, cheguei a ministrar um curso de modelagem 3D durante a "Semana Agrotecnológica", um evento de tecnologia que durou uma semana. Infelizmente, não pude me dedicar tanto a essa área devido à minha participação em várias olimpíadas de conhecimento, apesar de ter me divertido bastante com aquela impressora.
 </details>
 
+<details>
 <summary>Inteligência artificial</summary><br>
 
 </details>
