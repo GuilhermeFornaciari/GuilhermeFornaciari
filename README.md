@@ -1,4 +1,5 @@
 # Guilherme de Souza Fornaciari
+# English version
 ## Heyy I'm Guilherme
 I'm currently 18 years old, and I'm a fullstack programmer, specializing in backend.
 I'm mainly interested in building web applications.
@@ -54,7 +55,7 @@ I have always found this topic extremely interesting. Therefore, I asked the IFR
 </details>
 
 
-
+# Portuguese version:
 
 ## Heyy meu nome é Guilherme
 Tenho 18 anos atualmente, e sou um programador fullstack, com especialização em backend.
