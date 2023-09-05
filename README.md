@@ -10,7 +10,8 @@ Heyy, meu nome é Guilherme de Souza Fornaciari, e eu sou um programador fullsta
 
 <img width="50" alt="Python" src="https://github.com/GuilhermeFornaciari/GuilhermeFornaciari/assets/105019755/95f2d473-7b12-4ca2-99ac-a566076eba59">
 
-  <img width="20" alt="Django" src="https://github.com/GuilhermeFornaciari/GuilhermeFornaciari/assets/105019755/feeccaab-b934-4014-a50e-d8abdfc10fc5">
+
+  <img width="20" alt="Django" src="Logos\django-logo.png">
     
   <img width="20" alt="Pandas" src="https://github.com/GuilhermeFornaciari/GuilhermeFornaciari/assets/105019755/b54c5c81-2315-42c8-a12a-205bc6faecdd">
 
