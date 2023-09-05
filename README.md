@@ -7,14 +7,17 @@
 ## Portuguese
 ### Introdução
 Heyy, meu nome é Guilherme de Souza Fornaciari, e eu sou um programador fullstack, com especialização em backend, sei utilizar diversas tecnologias como:
+<img width="50" alt="Python" src="https://github.com/GuilhermeFornaciari/GuilhermeFornaciari/assets/105019755/95f2d473-7b12-4ca2-99ac-a566076eba59">
+    <img width="20" alt="Django" src="https://github.com/GuilhermeFornaciari/GuilhermeFornaciari/assets/105019755/feeccaab-b934-4014-a50e-d8abdfc10fc5">
+    <img width="20" alt="Pandas" src="https://github.com/GuilhermeFornaciari/GuilhermeFornaciari/assets/105019755/b54c5c81-2315-42c8-a12a-205bc6faecdd">
+    <img width="20" alt="Selenium" src="https://github.com/GuilhermeFornaciari/GuilhermeFornaciari/assets/105019755/33fffee3-1d42-45ab-8faf-1a69f27730e4">
 
-##Python ![![python](https://github.com/GuilhermeFornaciari/GuilhermeFornaciari/assets/105019755/95f2d473-7b12-4ca2-99ac-a566076eba59)
+###Python 
+  Django (Framework para backend) 
+  Pandas (Biblioteca para manipular documentos)
+  Selenium (Framework para fazer automatizações de interações com paginas web) 
 
-  Django (Framework para backend) ![django-logo](https://github.com/GuilhermeFornaciari/GuilhermeFornaciari/assets/105019755/feeccaab-b934-4014-a50e-d8abdfc10fc5)
-  Pandas (Biblioteca para manipular documentos) ![Pandas_logo svg](https://github.com/GuilhermeFornaciari/GuilhermeFornaciari/assets/105019755/b54c5c81-2315-42c8-a12a-205bc6faecdd)
-  Selenium (Framework para fazer automatizações de interações com paginas web) <img width="20" alt="Selenium" src="https://github.com/GuilhermeFornaciari/GuilhermeFornaciari/assets/105019755/33fffee3-1d42-45ab-8faf-1a69f27730e4">
-
- bono ano de 2022, eu defini um objetivo de vida: me tornar um programador bom o suficiente 
+Como me comunicar: Fornaciari049@gmail.com
 
 How to reach me: Send a email to fornaciari049@gmail.com
 
