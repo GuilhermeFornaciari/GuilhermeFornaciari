@@ -7,7 +7,7 @@ I'm mainly interested in building web applications.
 - Python S2
 - JavaScript/TypeScript
 - C++ (For arduino)
-- W#
+- C#
 - PHP (In the technical course)
 ## Web development
    1. **Frontend**
