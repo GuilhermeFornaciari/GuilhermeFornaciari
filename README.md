@@ -15,8 +15,8 @@ I'm mainly interested in building web applications.
    1. **Backend**
         * Express
         * AspNet
-        * django
-        * selenium
+        * Django
+        * Selenium
 
 ## Other skills
    I am a technology enthusiast and, therefore, I have a hobby that consists of exploring different areas of knowledge. However, there are two main areas that interest me deeply: web development and robotics. I have a lot of fun working with these themes, so much so that I've done several projects. Here are some examples of them:
