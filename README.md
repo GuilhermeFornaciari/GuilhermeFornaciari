@@ -1,13 +1,13 @@
 # Guilherme de Souza Fornaciari
-# English version
+# English resume
 ## Heyy I'm Guilherme
-I'm currently 18 years old, and I'm a fullstack programmer, specializing in backend.
+I'm currently 18 years old, and I'm a fullstack programmer, specialized in backend.
 I'm mainly interested in building web applications.
 ## Programming languages
-- Python S2
+- Python
 - JavaScript/TypeScript
 - C++ (For arduino)
-- W#
+- C#
 - PHP (In the technical course)
 ## Web development
    1. **Frontend**
@@ -15,11 +15,11 @@ I'm mainly interested in building web applications.
    1. **Backend**
         * Express
         * AspNet
-        * django
-        * selenium
+        * Django
+        * Selenium
 
 ## Other skills
-   I am a technology enthusiast and, therefore, I have a hobby that consists of exploring different areas of knowledge. However, there are two main areas that interest me deeply: web development and robotics. I have a lot of fun working with these themes, so much so that I've done several projects. Here are some examples of them:
+   I am a technology enthusiast and, therefore, I have a hobby that consists of exploring different areas of knowledge. However, there are two main areas that deeply interest me: web development and robotics. I have a lot of fun working with these themes, so much so that I've done several projects. Here are some examples of them:
    NOTE: all reported projects are in this repository, however, for more details, both about me and the projects, visit my website:
    [Guilherme Fornaciari](LINKAKI)
 
@@ -55,7 +55,7 @@ I have always found this topic extremely interesting. Therefore, I asked the IFR
 </details>
 
 
-# Portuguese version:
+# Portuguese resume:
 
 ## Heyy meu nome é Guilherme
 Tenho 18 anos atualmente, e sou um programador fullstack, com especialização em backend.
