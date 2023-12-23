@@ -8,10 +8,10 @@ I'm mainly interested in building web applications.
 - JavaScript/TypeScript
 - C++ (For arduino)
 - C#
-- PHP (In the technical course)
+- PHP
 ## Web development
    1. **Frontend**
-        * Nothing so far, but I intend to learn soon
+        * Angular v17
    1. **Backend**
         * Express
         * AspNet
@@ -20,7 +20,7 @@ I'm mainly interested in building web applications.
 
 ## Other skills
    I am a technology enthusiast and, therefore, I have a hobby that consists of exploring different areas of knowledge. However, there are two main areas that deeply interest me: web development and robotics. I have a lot of fun working with these themes, so much so that I've done several projects. Here are some examples of them:
-   NOTE: all reported projects are in this repository, however, for more details, both about me and the projects, visit my website:
+   NOTE: all reported projects are in this repository, however, for more details, about me and the projects, visit my website:
    [Guilherme Fornaciari](LINKAKI)
 
 
@@ -68,7 +68,7 @@ Estou principalmente interessado em construir aplicações web.
 - PHP (No curso técnico)
 ## Web development
   1. **Frontend**
-       * Nada ate agora, porém eu pretendo aprender em breve 
+       * Angular
   1. **Backend**
        * Express
        * AspNet
