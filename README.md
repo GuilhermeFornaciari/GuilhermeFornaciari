@@ -68,7 +68,7 @@ Estou principalmente interessado em construir aplicações web.
 - PHP (No curso técnico)
 ## Web development
   1. **Frontend**
-       * Angular
+       * Angular v17
   1. **Backend**
        * Express
        * AspNet
