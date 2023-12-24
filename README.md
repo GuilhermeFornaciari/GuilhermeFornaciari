@@ -16,7 +16,7 @@ I'm mainly interested in building web applications.
         * Express
         * AspNet
         * Django
-        * Selenium
+        * NestJS
 
 ## Other skills
    I am a technology enthusiast and, therefore, I have a hobby that consists of exploring different areas of knowledge. However, there are two main areas that deeply interest me: web development and robotics. I have a lot of fun working with these themes, so much so that I've done several projects. Here are some examples of them:
@@ -73,7 +73,7 @@ Estou principalmente interessado em construir aplicações web.
        * Express
        * AspNet
        * Django
-       * Selenium
+       * NestJS
 
 ## Outras habilidades
   Sou um entusiasta de tecnologia e, por isso, tenho um hobby que consiste em explorar diversas áreas do conhecimento. No entanto, existem duas áreas principais que me interessam profundamente: o desenvolvimento web e a robótica. Me divirto muito trabalhando com esses temas, tanto que já realizei diversos projetos. Aqui estão alguns exemplos deles:
