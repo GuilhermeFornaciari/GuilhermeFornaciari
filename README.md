@@ -21,7 +21,7 @@ I'm mainly interested in building web applications.
 ## Other skills
    I am a technology enthusiast and, therefore, I have a hobby that consists of exploring different areas of knowledge. However, there are two main areas that deeply interest me: web development and robotics. I have a lot of fun working with these themes, so much so that I've done several projects. Here are some examples of them:
    NOTE: all reported projects are in this repository, however, for more details, about me and the projects, visit my website:
-   [Guilherme Fornaciari](LINKAKI)
+   [Guilherme Fornaciari](https://guilherme-site.vercel.app/)
 
 
 <details>
@@ -78,7 +78,7 @@ Estou principalmente interessado em construir aplicações web.
 ## Outras habilidades
   Sou um entusiasta de tecnologia e, por isso, tenho um hobby que consiste em explorar diversas áreas do conhecimento. No entanto, existem duas áreas principais que me interessam profundamente: o desenvolvimento web e a robótica. Me divirto muito trabalhando com esses temas, tanto que já realizei diversos projetos. Aqui estão alguns exemplos deles:
   OBS: todos os projetos relatados estão neste repositório, porém, para obter mais detalhes, tanto sobre mim quanto sobre os projetos, visite o meu site:
-  [Guilherme Fornaciari](LINKAKI)
+  [Guilherme Fornaciari](https://guilherme-site.vercel.app/)
 
 
 <details>
